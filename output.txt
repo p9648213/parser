@@ -1,0 +1,66 @@
+=============== Page 0 ===============
+D1143 NATURE
+UI Trastero Garaje Tipo UI Nº hab. m2 Constr. m2 Terraza m2 Jardín m2 Estado UI Precio
+Fecha de 
+entrega 
+estimada
+Door Storage R. Parking Prop. Type Bedrooms Built m2 Terrace m2 Garden solarium Status Price
+Estimated 
+completion 
+date
+B4 - 00 - 14 P1 - PK - 1 ADOSADO 3 180,26 39,30 57,13 Disponible 455.000,00 € 15/10/2027
+B4 - 00 - 15 P1 - PK - 2 ADOSADO 3 176,06 37,50 42,35 Disponible 450.000,00 € 15/10/2027
+B4 - 00 - 16 P1 - PK - 3 ADOSADO 3 176,06 37,50 42,35 Disponible 450.000,00 € 15/10/2027
+B4 - 00 - 17 P1 - PK - 4 ADOSADO 3 176,06 37,50 42,35 Disponible 450.000,00 € 15/10/2027
+B4 - 00 - 18 P1 - PK - 5 ADOSADO 3 180,26 39,30 68,40 Disponible 460.000,00 € 15/10/2027
+B5 - 00 - 19 P1 - PK - 6 ADOSADO 3 180,26 39,30 68,27 Disponible 450.000,00 € 15/10/2027
+B5 - 00 - 20 P1 - PK - 7 ADOSADO 3 176,06 37,50 42,35 Disponible 450.000,00 € 15/10/2027
+B5 - 00 - 21 P1 - PK - 8 ADOSADO 3 176,06 37,50 42,35 Disponible 450.000,00 € 15/10/2027
+B5 - 00 - 22 P1 - PK - 9 ADOSADO 3 176,06 37,50 42,35 Disponible 450.000,00 € 15/10/2027
+B5 - 00 - 23 P1 - PK - 10 ADOSADO 3 180,26 39,30 86,32 Disponible 460.000,00 € 15/10/2027
+B6 - 00 - 25 ADOSADO 3 115,80 37,50 43,89 Disponible 430.000,00 € 15/10/2027
+B6 - 00 - 26 ADOSADO 3 115,80 37,50 43,89 Disponible 430.000,00 € 15/10/2027
+B6 - 00 - 27 ADOSADO 3 115,80 37,50 43,89 Disponible 430.000,00 € 15/10/2027
+B6 - 00 - 28 ADOSADO 3 118,60 39,30 43,17 Disponible 430.000,00 € 15/10/2027
+B7 - 00 - 29 ADOSADO 3 118,60 39,30 48,00 Disponible 430.000,00 € 15/10/2027
+B7 - 00 - 30 ADOSADO 3 115,80 37,50 48,08 Disponible 430.000,00 € 15/10/2027
+B7 - 00 - 31 ADOSADO 3 115,80 37,50 47,54 Disponible 430.000,00 € 15/10/2027
+B7 - 00 - 32 P1 - PK - 11 | P1 - PK - 
+12
+ADOSADO 3 115,80 37,50 47,15 Disponible 430.000,00 € 15/10/2027
+La lista de precios tiene una validez de 24 horas desde su recepción, que una vez pasadas ya no vinculan a la empresa
+The price list is valid for 24 hours from receipt, after which time it is no longer binding on the company
+La presente lista de precios es informativa por lo que no es contractual y podrá ser cambiada como resultado de nuestra política de desarrollo continuo del producto.
+The present price list is for information purposes only and may change as a result of our policy of continuous product development. The contents do not constitute a contract, part of a contract or a warranty.
+Los precios arriba indicados no incluyen I.V.A. (10%). The above indicated prices do not include I.V.A. (10%). In den oben angegebenen Preisen ist I.V.A. (MWST) nicht enthalten (10%).
+Die Preise sind nur zur Information und stellen in keinster Weise einen Vertrag dar und können sich während der weiteren Entwicklung des Projektes ändern.
+Lista de Precios de UIs + Estados
+Price list + Status Página 1
+
+=============== Page 1 ===============
+D1143 NATURE
+UI Trastero Garaje Tipo UI Nº hab. m2 Constr. m2 Terraza m2 Jardín m2 Estado UI Precio
+Fecha de 
+entrega 
+estimada
+Door Storage R. Parking Prop. Type Bedrooms Built m2 Terrace m2 Garden solarium Status Price
+Estimated 
+completion 
+date
+B7 - 00 - 33 P1 - PK - 13 | P1 - PK - 
+14
+ADOSADO 3 118,60 39,30 109,21 Disponible 440.000,00 € 15/10/2027
+B8 - 00 - 34 ADOSADO 3 118,60 39,30 80,80 Disponible 425.000,00 € 15/10/2027
+B8 - 00 - 35 ADOSADO 3 115,80 37,50 47,97 Disponible 430.000,00 € 15/10/2027
+B8 - 00 - 36 ADOSADO 3 115,80 37,50 47,97 Disponible 430.000,00 € 15/10/2027
+B8 - 00 - 37 ADOSADO 3 115,80 37,50 47,97 Disponible 430.000,00 € 15/10/2027
+B8 - 00 - 38 ADOSADO 3 118,60 39,30 193,82 Disponible 440.000,00 € 15/10/2027
+La lista de precios tiene una validez de 24 horas desde su recepción, que una vez pasadas ya no vinculan a la empresa
+The price list is valid for 24 hours from receipt, after which time it is no longer binding on the company
+La presente lista de precios es informativa por lo que no es contractual y podrá ser cambiada como resultado de nuestra política de desarrollo continuo del producto.
+The present price list is for information purposes only and may change as a result of our policy of continuous product development. The contents do not constitute a contract, part of a contract or a warranty.
+Los precios arriba indicados no incluyen I.V.A. (10%). The above indicated prices do not include I.V.A. (10%). In den oben angegebenen Preisen ist I.V.A. (MWST) nicht enthalten (10%).
+Die Preise sind nur zur Information und stellen in keinster Weise einen Vertrag dar und können sich während der weiteren Entwicklung des Projektes ändern.
+Lista de Precios de UIs + Estados
+Price list + Status Página 2
+
